@@ -16,11 +16,9 @@
 
 ## Capturas de Pantalla
 
-![InterVisor Main Screen](path_to_screenshot_image1)
-*Descripción de la imagen*
-
-![InterVisor Analysis Screen](path_to_screenshot_image2)
-*Descripción de la imagen*
+![InterVisor Main Screen](./menu.png)
+![InterVisor Analysis Modes](./modes.png)
+![InterVisor Spectrum plot](./spectrum_visor.png)
 
 ## Instalación
 
