@@ -1,0 +1,7 @@
+# Ignorar archivos de configuración de IDEs
+.idea/
+.vscode/
+
+*.fits
+*.pyc
+\__pycache__
