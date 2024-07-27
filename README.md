@@ -1,7 +1,7 @@
 
 # InterVisor
 
-![InterVisor Logo](path_to_logo_image) <!-- Puedes agregar una imagen si tienes un logo -->
+![InterVisor Logo](./icon.png) <!-- Puedes agregar una imagen si tienes un logo -->
 
 ## Descripción
 
