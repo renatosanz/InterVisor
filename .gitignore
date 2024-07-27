@@ -2,8 +2,9 @@
 .idea/
 .vscode/
 
-*.fits
-*.pyc
+.fits
+.pickle
+.pyc
 interfaces/__pycache__/
 Logic/__pycache__/
 Objects/__pycache__/
