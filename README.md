@@ -64,3 +64,7 @@ Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENS
 ---
 
 ¡Gracias por usar InterVisor! Si tienes alguna pregunta o sugerencia, no dudes en contactarnos.
+
+
+
+La fuente "Inter" utilizada en este proyecto está licenciada bajo la [SIL Open Font License, Version 1.1](fonts/Inter/OFL.txt).

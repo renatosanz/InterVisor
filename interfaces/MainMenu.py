@@ -188,39 +188,39 @@ class MainMenu:
 
         with dpg.font_registry():
             self.extrabold_font40 = dpg.add_font(
-                file="./Inter-4.0/extras/ttf/InterDisplay-ExtraBold.ttf",
+                file="fonts/inter/extras/ttf/InterDisplay-ExtraBold.ttf",
                 size=40,
                 tag="extrabold_font40",
             )
             self.bold_font30 = dpg.add_font(
-                file="./Inter-4.0/extras/ttf/Inter-Bold.ttf", size=30, tag="bold_font30"
+                file="fonts/inter/extras/ttf/Inter-Bold.ttf", size=30, tag="bold_font30"
             )
             self.bold_font25 = dpg.add_font(
-                file="./Inter-4.0/extras/ttf/Inter-Bold.ttf", size=25, tag="bold_font25"
+                file="fonts/inter/extras/ttf/Inter-Bold.ttf", size=25, tag="bold_font25"
             )
             self.bold_font20 = dpg.add_font(
-                file="./Inter-4.0/extras/ttf/Inter-Bold.ttf", size=20, tag="bold_font20"
+                file="fonts/inter/extras/ttf/Inter-Bold.ttf", size=20, tag="bold_font20"
             )
             self.bold_font15 = dpg.add_font(
-                file="./Inter-4.0/extras/ttf/Inter-Bold.ttf", size=15, tag="bold_font15"
+                file="fonts/inter/extras/ttf/Inter-Bold.ttf", size=15, tag="bold_font15"
             )
             self.regular_font17 = dpg.add_font(
-                file="./Inter-4.0/extras/ttf/Inter-Regular.ttf",
+                file="fonts/inter/extras/ttf/Inter-Regular.ttf",
                 size=17,
                 tag="regular_font17",
             )
             self.regular_font20 = dpg.add_font(
-                file="./Inter-4.0/extras/ttf/Inter-Regular.ttf",
+                file="fonts/inter/extras/ttf/Inter-Regular.ttf",
                 size=20,
                 tag="regular_font20 ",
             )
             self.semibold_font20 = dpg.add_font(
-                file="./Inter-4.0/extras/ttf/Inter-SemiBold.ttf",
+                file="fonts/inter/extras/ttf/Inter-SemiBold.ttf",
                 size=20,
                 tag="semibold_font20 ",
             )
             dpg.add_font(
-                file="./Inter-4.0/extras/ttf/Inter-Medium.ttf",
+                file="fonts/inter/extras/ttf/Inter-Medium.ttf",
                 size=17,
                 tag="medium_font17",
             )

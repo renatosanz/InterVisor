@@ -4,4 +4,7 @@
 
 *.fits
 *.pyc
-*./__pycache__
+interfaces/__pycache__/
+Logic/__pycache__/
+Objects/__pycache__/
+Inter-4.0
