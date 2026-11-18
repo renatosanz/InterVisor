@@ -4,6 +4,7 @@
 
 .fits
 .pickle
+*.pickle
 .pyc
 interfaces/__pycache__/
 Logic/__pycache__/
