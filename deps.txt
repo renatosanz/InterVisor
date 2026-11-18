@@ -1,4 +1,5 @@
-numpy 
-dearpygui 
-astropy 
-scipy 
+numpy
+dearpygui
+astropy
+scipy
+matplotlib
